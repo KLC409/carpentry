@@ -1,1 +1,2 @@
 This is my first text file to test my git repository
+I'm now adding another line of text
